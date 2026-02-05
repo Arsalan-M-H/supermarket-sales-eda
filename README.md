@@ -1,4 +1,4 @@
-#Supermarket Sales Exploratory Data Analysis Project
+##Supermarket Sales Exploratory Data Analysis Project
 
 Project Overview
 
