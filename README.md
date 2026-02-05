@@ -30,8 +30,8 @@ Tableau
   
 Process
 
--	Loaded and inspected raw sales data and assessed data quality
--	Performed feature engineering on date fields (e.g. month, quarter, year) to enable time-based analysis
+-	Loaded and inspected raw sales data and assessed data quality.
+-	Performed feature engineering on date fields (e.g. month, quarter, year) to enable time-based analysis.
 -	Aggregated sales data at product, category, state, monthly, and quarterly levels.
 -	 Used exploratory data analysis to identify trends, insights, and answer business questions.
 -	Exported a clean dataset for visualisation.
