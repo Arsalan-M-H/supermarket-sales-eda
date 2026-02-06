@@ -10,7 +10,7 @@ The objective of this project was to explore sales performance across products, 
 Business & Domain Questions
 
 1. Which products generate the highest total revenue across the business?  
-2. How does product performance vary by state?  
+2. Top performing products by state? 
 3. How is revenue distributed across product categories within each state?  
 4. How do sales revenue and transaction volumes change over time?  
 5. Is revenue growth driven more by transaction volume or by higher-value transactions?  
